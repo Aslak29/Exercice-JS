@@ -1,5 +1,5 @@
 const prompt = require("prompt-sync")();
-const nombre = prompt("Donne moi la note de l'élève "); 
+const nombre = prompt("Donne moi un nombre "); //demande un nombre a l'utilisateur
 const fizz = fizzBuzz(nombre);
 
 function fizzBuzz(n) {
