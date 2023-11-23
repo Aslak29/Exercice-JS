@@ -18,4 +18,4 @@ if (age != "" && !isNaN(age)) {
     console.log("L'enfant appartient  à la categorie 'Cadet'"); //affichera la catégorie Cadet si l'âge et supérieur ou égale a 12
   } else {
   }
-}
+};

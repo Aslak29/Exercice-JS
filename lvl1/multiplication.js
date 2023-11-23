@@ -20,4 +20,4 @@ for (let i = 1; i <= 10; i++) {
   const result = i * nombre; // multiplie le nombre donné de jusqu'a 10 
 
   console.log(`${nombre} x ${i} = ${result}`); //Affiche le nombre donné, sa multiplication et son résultat
-}
+};

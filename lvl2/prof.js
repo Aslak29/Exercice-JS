@@ -18,8 +18,8 @@ if (note != "" && !isNaN(note)) {
   } else if (note >= 15 && note <= 17) {
     console.log("Bien"); //affichera Bien si la note est entre 15 et 17
   } else if (note >=18 && note <= 20){
-    console.log("Excellent, bon travail")//affichera Excellent, bon travail si la note est entre 18 et 20
+    console.log("Excellent, bon travail");//affichera Excellent, bon travail si la note est entre 18 et 20
   }else {
-    console.log("erreur mettre une notre entre 0 et 20")
+    console.log("erreur mettre une notre entre 0 et 20");
   }
-}
+};

@@ -12,6 +12,6 @@ function pyramide(rows) {
     for (let k = 0; k <= i; k++) str += "* "; //Ajoute une étoile
     console.log(str);
   }
-}
+};
 
 pyramide(5); //stop la boucle a 5

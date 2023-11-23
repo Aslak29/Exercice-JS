@@ -12,6 +12,6 @@ function sommeTab(tableau) {
     }
 
     return somme;
-  }
+  };
 
   console.log("La somme des éléments du tableau est : " + result); // affichera la somme des éléments du tableau

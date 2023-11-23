@@ -23,6 +23,6 @@ function escalier(n) {
     }
     console.log(str);
   }
-}
+};
 
 escalier(5); //stop la boucle a 5
